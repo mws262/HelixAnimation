@@ -8,3 +8,6 @@ Runs on MATLAB 2014b+ (although could be adapted for earlier if there's great in
 If you find this interesting, feel free to let me know!
 
 Matthew Sheen, 2016 -- mws262@cornell.edu
+
+## Video Link
+https://www.youtube.com/watch?v=2uESlFxGVDM
